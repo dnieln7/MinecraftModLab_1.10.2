@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fishworld",
+  "name": "Fish World",
+  "description": "Sea mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vizaks"],
+  "credits": "None",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

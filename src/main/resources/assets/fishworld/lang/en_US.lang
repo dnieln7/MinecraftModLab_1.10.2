@@ -1,0 +1,55 @@
+# Creative Tabs
+
+itemGroup.Fish_Items=Fish - Items
+itemGroup.Fish_Blocks=Fish - Blocks
+
+# Items
+
+item.coral_chunk.name=Coral chunk
+
+item.creative_staff.name=Creative Staff
+item.spawner.name=Spawner
+
+item.pearl.black.name=Black pearl
+item.pearl.blue.name=Blue pearl
+item.pearl.green.name=Green pearl
+item.pearl.pink.name=Pink pearl
+item.pearl.purple.name=Purple pearl
+item.pearl.red.name=Red pearl
+item.pearl.white.name=White pearl
+item.pearl.yellow.name=Yellow pearl
+item.pearl.rainbow.name=Rainbow pearl
+
+# Tools
+
+item.coral_sword.name=Coral Sword
+item.coral_pickaxe.name=Coral pickaxe
+item.coral_axe.name=Coral axe
+item.coral_shovel.name=Coral shovel
+item.coral_hoe.name=Coral hoe
+
+# Food
+
+item.mosty_bread.name=Mosty bread
+
+# Armor
+
+item.coral_helmet.name=Coral helmet
+item.coral_chestplate.name=Coral chestplate
+item.coral_leggings.name=Coral leggings
+item.coral_boots.name=Coral boots
+
+# Blocks
+
+tile.coral_block.name=Coral block
+tile.gunpowder_ore.name=Gunpowder ore
+tile.altar.name=Altar
+
+# Achievements
+
+achievement.firstBlock=First block
+achievement.firstBlock.desc=Craft first coral block!
+
+# Container
+
+container.altar.name=Altar
